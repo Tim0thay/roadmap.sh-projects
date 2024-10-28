@@ -10,6 +10,6 @@ Below are the projects from the [frontend developer roadmap](https://roadmap.sh/
 
 <p align="left">
   <a href='/Frontend Projects/01-single-page-cv/'>
-    <img width="40%" src="./assets/images/01-single-page-cv-sc.png" alt="single page cv screenshot" />
+    <img width="45%" src="./assets/images/01-single-page-cv-sc.png" alt="single page cv screenshot" />
   </a>
 </p>
