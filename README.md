@@ -1,2 +1,4 @@
 # roadmap.sh-projects
- These are all of the projects I did from the frontend developer roadmap on roadmap.sh.
+ 
+This repository contains projects built following the [roadmap.sh](https://roadmap.sh/) developer path.
+
