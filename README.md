@@ -13,3 +13,7 @@ Below are the projects from the [frontend developer roadmap](https://roadmap.sh/
     <img width="45%" src="./assets/images/01-single-page-cv-sc.png" alt="single page cv screenshot" />
   </a>
 </p>
+
+## Backend Project List
+
+Below are the projects from the [backend developer roadmap](https://roadmap.sh/backend).
